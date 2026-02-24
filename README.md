@@ -37,6 +37,6 @@ This program filters data in a csv file containing basketball data from differen
 
 
 
-AI Disclaimer:
+**AI Disclaimer:**
 
-    This project was created with the use of AI. For more information here is a link to my chatlog with Gemini: https://gemini.google.com/share/83d17add2bdb
+**_This project was created with the use of AI. For more information here is a secure link to my chatlog with Gemini: https://gemini.google.com/share/83d17add2bdb_**

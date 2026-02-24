@@ -35,3 +35,8 @@ This program filters data in a csv file containing basketball data from differen
   
     Linear Assumption: A linear fit assumes a constant rate of change, which may not capture the "peak and decline" arc of a typical athletic career.
 
+
+
+AI Disclaimer:
+
+    This project was created with the use of AI. For more information here is a link to my chatlog with Gemini: https://gemini.google.com/share/83d17add2bdb
